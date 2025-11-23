@@ -84,7 +84,7 @@ Recommendation: Continue rollout of redesigned interface.
 a-b-test-of-used-cars.ipynb — Complete analysis, code & charts
 
 ## Notebook Link
-https://github.com/yourname/used-car-abtest/blob/main/analysis.ipynb
+https://github.com/Haze7l8/used-car-abtest/blob/46b2f514a85bd5bba926ff8f311c3bbbb2a32606/a-b-test-of-used-cars.ipynb
 
 ## Author
 Zhenyao Xu
